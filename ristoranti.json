@@ -1,0 +1,48 @@
+{
+  "ristoranti": [
+    {
+      "nome": "Sushi Queen",
+      "indirizzo": "Via Leonardo da Vinci, 13, 67100 L'Aquila AQ",
+      "telefono": "+39 0862 1822218",
+      "website": "https://www.sushiqueen.it/",
+      "descrizione": "Offre la formula 'All You Can Eat' in un ambiente accogliente con opzioni di asporto e consegna a domicilio.",
+      "orari": {
+        "pranzo": "12:00 - 15:30",
+        "cena": "19:00 - 23:30"
+      }
+    },
+    {
+      "nome": "Sushikaiten",
+      "indirizzo": "Via della Crocetta, snc, 67100 L'Aquila AQ",
+      "telefono": "+39 0862 080100",
+      "website": "https://www.sushikaiten.it/ristorante/laquila",
+      "descrizione": "Catena di ristoranti 'All You Can Eat' che propone cucina asiatica di qualità sia a pranzo che a cena.",
+      "orari": {
+        "pranzo": "12:30 - 15:00",
+        "cena": "19:30 - 23:30"
+      }
+    },
+    {
+      "nome": "Ristorante Orientale Okaeri",
+      "indirizzo": "Indirizzo non specificato, 67100 L'Aquila AQ",
+      "telefono": "Non disponibile",
+      "website": "Non disponibile",
+      "descrizione": "Uno dei migliori sushi all’Aquila con salmone e tonno freschissimi, tartare e sashimi di qualità assoluta.",
+      "orari": {
+        "pranzo": "Non specificato",
+        "cena": "Non specificato"
+      }
+    },
+    {
+      "nome": "Sushi OK",
+      "indirizzo": "Indirizzo non specificato, 67100 L'Aquila AQ",
+      "telefono": "Non disponibile",
+      "website": "Non disponibile",
+      "descrizione": "Offre la possibilità di mangiare presso il locale con pochi tavoli e un efficiente servizio di consegna a domicilio.",
+      "orari": {
+        "pranzo": "Non specificato",
+        "cena": "Non specificato"
+      }
+    }
+  ]
+}
